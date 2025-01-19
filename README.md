@@ -24,8 +24,7 @@ Before running the program, ensure that you have the following libraries install
 
 You can install the required libraries using **pip**:
 
-```bash
-pip install numpy pandas
+<img src="https://github.com/ayu-shiirathore/Topsis/blob/main/Screenshot%202025-01-19%20113036.png" alt="Sample Image" />
 
-<img src="path/to/your-image.png" alt="Sample Image" />
+
 
