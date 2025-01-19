@@ -26,3 +26,6 @@ You can install the required libraries using **pip**:
 
 ```bash
 pip install numpy pandas
+
+<img src="path/to/your-image.png" alt="Sample Image" />
+
